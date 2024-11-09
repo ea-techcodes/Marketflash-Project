@@ -13,7 +13,7 @@
 - [MarketFlash Employee Data 2023](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash_employee_data_2023.csv) 
 
 ### Pointers from MarketFlash as a Guideline
-- **Entities**  
+- [Entities](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash_Entities.pdf)
 - [Worksheets 1](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Data_Worksheet1.pdf) 
 - [Worksheets 2](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Data_Worksheet2.pdf) 
 - [Relationships for ERD](#relationships)

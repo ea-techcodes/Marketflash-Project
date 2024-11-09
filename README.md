@@ -10,12 +10,12 @@
 
 ### Information Provided for Database Design and SQL
 - [MarketFlash Marketing Data 2023]( https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash_marketing_data_2023csv.csv) 
-- [MarketFlash Employee Data 2023https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash_employee_data_2023.csv) 
+- [MarketFlash Employee Data 2023](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash_employee_data_2023.csv) 
 
 ### Pointers from MarketFlash as a Guideline
 - **Entities**  
 - [Worksheets 1]( https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Data_Worksheet1.pdf) 
-- [Worksheets 2https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Data_Worksheet2.pdf) 
+- [Worksheets 2](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Data_Worksheet2.pdf) 
 - [Relationships for ERD](#relationships)
 
 ### Solutions

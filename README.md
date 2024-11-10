@@ -14,8 +14,8 @@
 
 ### Pointers from MarketFlash as a Guideline
 - [Entities](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash_Entities.pdf)
-- [Worksheets 1](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Data_Worksheet1.pdf) 
-- [Worksheets 2](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Data_Worksheet2.pdf) 
+- [Data Info 1](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Data_Worksheet1.pdf) 
+- [Data Info 2](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Data_Worksheet2.pdf) 
 - [Relationships for ERD](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Relationships.pdf)
 
 ### Solutions

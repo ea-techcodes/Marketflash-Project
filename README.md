@@ -19,6 +19,6 @@
 - [Relationships for ERD](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Relationships.pdf)
 
 ### Solutions
-- [Entity Relationship Diagram](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20ERD.pdf)
+- [Entity Relationship Diagram](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Entity%20Relationship%20Diagram.pdf)
 - [SQL Syntaxes: Creating the Database](#sql-syntaxes)
 - [MarketFlash Performance Campaign Dashboard (Tableau)](https://public.tableau.com/app/profile/ea.viz/viz/MarketFlash_PerformanceCampaign/Dashboard1)

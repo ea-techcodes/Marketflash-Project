@@ -22,3 +22,4 @@
 - [Entity Relationship Diagram](https://github.com/ea-techcodes/Marketflash-Project/blob/main/Marketflash%20Entity%20Relationship%20Diagram.pdf)
 - [SQL Syntaxes: Creating the Database](#sql-syntaxes)
 - [MarketFlash Performance Campaign Dashboard (Tableau)](https://public.tableau.com/app/profile/ea.viz/viz/MarketFlash_PerformanceCampaign/Dashboard1)
+- [Video Presentation on Project Summary](https://www.loom.com/share/82b47e551f064cb19a962f0146f33a10?sid=8b34b0c7-0c67-4855-a6fa-0512714d1a60)
